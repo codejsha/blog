@@ -93,35 +93,51 @@ $$
 ```
 
 $$
-\frac{d}{dx} [cf(x)] = c \frac{d}{dx} f(x) = cf'(x)
+\begin{align*}
+\frac{d}{dx} [cf(x)] &= c \frac{d}{dx} f(x) \\
+                     &= cf'(x)
+\end{align*}
 $$
 
 ```text
-\frac{d}{dx} [cf(x)] = c \frac{d}{dx} f(x) = cf'(x)
+\frac{d}{dx} [cf(x)] &= c \frac{d}{dx} f(x) \\
+                     &= cf'(x)
 ```
 
 $$
-\frac{d}{dx} [f(x) + g(x)] = \frac{d}{dx} f(x) + \frac{d}{dx} g(x) = f'(x) + g'(x)
+\begin{align*}
+\frac{d}{dx} [f(x) + g(x)] &= \frac{d}{dx} f(x) + \frac{d}{dx} g(x) \\
+                           &= f'(x) + g'(x)
+\end{align*}
 $$
 
 ```text
-\frac{d}{dx} [f(x) + g(x)] = \frac{d}{dx} f(x) + \frac{d}{dx} g(x) = f'(x) + g'(x)
+\frac{d}{dx} [f(x) + g(x)] &= \frac{d}{dx} f(x) + \frac{d}{dx} g(x) \\
+                           &= f'(x) + g'(x)
 ```
 
 $$
-\frac{d}{dx} [f(x) - g(x)] = \frac{d}{dx} f(x) - \frac{d}{dx} g(x) = f'(x) - g'(x)
+\begin{align*}
+\frac{d}{dx} [f(x) - g(x)] &= \frac{d}{dx} f(x) - \frac{d}{dx} g(x) \\
+                           &= f'(x) - g'(x)
+\end{align*}
 $$
 
 ```text
-\frac{d}{dx} [f(x) - g(x)] = \frac{d}{dx} f(x) - \frac{d}{dx} g(x) = f'(x) - g'(x)
+\frac{d}{dx} [f(x) - g(x)] &= \frac{d}{dx} f(x) - \frac{d}{dx} g(x) \\
+                           &= f'(x) - g'(x)
 ```
 
 $$
-\frac{d}{dx} [f(x) g(x)] = f(x) \frac{d}{dx} g(x) + g(x) \frac{d}{dx} f(x) = f(x)g'(x) + g(x)f'(x)
+\begin{align*}
+\frac{d}{dx} [f(x) g(x)] &= f(x) \frac{d}{dx} g(x) + g(x) \frac{d}{dx} f(x) \\
+                         &= f(x)g'(x) + g(x)f'(x)
+\end{align*}
 $$
 
 ```text
-\frac{d}{dx} [f(x) g(x)] = f(x) \frac{d}{dx} g(x) + g(x) \frac{d}{dx} f(x) = f(x)g'(x) + g(x)f'(x)
+\frac{d}{dx} [f(x) g(x)] &= f(x) \frac{d}{dx} g(x) + g(x) \frac{d}{dx} f(x) \\
+                         &= f(x)g'(x) + g(x)f'(x)
 ```
 
 $$

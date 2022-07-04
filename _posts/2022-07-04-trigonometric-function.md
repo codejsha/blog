@@ -107,15 +107,23 @@ tan(x - y) &= \frac{tan(x) - tan(y)}{1 + tan(x)tan(y)}
 
 $$
 \begin{align*}
-sin(2x) &= 2sin(x)cos(x) = \frac{2tan(x)}{1 + tan^2(x)} \\
-cos(2x) &= cos^2(x) - sin^2(x) = 2cos^2(x) - 1 = 1 - 2sin^2(x) = \frac{1 - tan^2(x)}{1 + tan^2(x)} \\
+sin(2x) &= 2sin(x)cos(x) \\
+        &= \frac{2tan(x)}{1 + tan^2(x)} \\
+cos(2x) &= cos^2(x) - sin^2(x) \\
+        &= 2cos^2(x) - 1 \\
+        &= 1 - 2sin^2(x) \\
+        &= \frac{1 - tan^2(x)}{1 + tan^2(x)} \\
 tan(2x) &= \frac{2tan(x)}{1 -tan^2(x)}
 \end{align*}
 $$
 
 ```text
-sin(2x) &= 2sin(x)cos(x) = \frac{2tan(x)}{1 + tan^2(x)} \\
-cos(2x) &= cos^2(x) - sin^2(x) = 2cos^2(x) - 1 = 1 - 2sin^2(x) = \frac{1 - tan^2(x)}{1 + tan^2(x)} \\
+sin(2x) &= 2sin(x)cos(x) \\
+        &= \frac{2tan(x)}{1 + tan^2(x)} \\
+cos(2x) &= cos^2(x) - sin^2(x) \\
+        &= 2cos^2(x) - 1 \\
+        &= 1 - 2sin^2(x) \\
+        &= \frac{1 - tan^2(x)}{1 + tan^2(x)} \\
 tan(2x) &= \frac{2tan(x)}{1 -tan^2(x)}
 ```
 
