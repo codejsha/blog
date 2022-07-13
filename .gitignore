@@ -12,3 +12,9 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+
+### others
+.vs/
+
+/Gemfile.lock
+/settings.ini
