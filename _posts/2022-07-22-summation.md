@@ -10,7 +10,7 @@ categories: [math, latex]
 ## Notation
 
 $$
-\sum_{i=m}^n a_i = a_m + a_{m + 1} + a_{m + 2} + \dots + a_{n - 1} + a_n
+\sum_{i=m}^n a_{i} = a_{m} + a_{m+1} + a_{m+2} + \dots + a_{n-1} + a_{n}
 $$
 
 ## General identities
@@ -43,7 +43,7 @@ $$
 & \sum_{k=1}^n \log_{}{k} = \log_{}{k!} \\
 & \sum_{k=1}^n k = \frac{n(n + 1)}{2} \\
 & \sum_{k=1}^n k^2 = \frac{n(n + 1)(2n + 1)}{6} \\
-& \sum_{k=1}^n k^3 = (\frac{n(n + 1)}{2}]^2 = \frac{n^2(n + 1)^2}{4}
+& \sum_{k=1}^n k^3 = \left( \frac{n(n + 1)}{2} \right)^2 = \frac{n^2(n + 1)^2}{4}
 \end{align*}
 $$
 
@@ -54,7 +54,7 @@ $$
 & \sum_{k=1}^n \log_{}{k} = \log_{}{k!} \\
 & \sum_{k=1}^n k = \frac{n(n + 1)}{2} \\
 & \sum_{k=1}^n k^2 = \frac{n(n + 1)(2n + 1)}{6} \\
-& \sum_{k=1}^n k^3 = (\frac{n(n + 1)}{2}]^2 = \frac{n^2(n + 1)^2}{4}
+& \sum_{k=1}^n k^3 = \left( \frac{n(n + 1)}{2} \right)^2 = \frac{n^2(n + 1)^2}{4}
 ```
 
 ## Exponents

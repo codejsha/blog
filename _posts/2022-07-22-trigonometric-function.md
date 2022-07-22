@@ -13,22 +13,22 @@ categories: [math, latex]
 
 $$
 \begin{align*}
-sin(\theta) &= cos(\frac{\pi}{2} - \theta) = \frac{1}{csc(\theta)} \\
-cos(\theta) &= sin(\frac{\pi}{2} - \theta) = \frac{1}{sec(\theta)} \\
-tan(\theta) &= \frac{sin(\theta)}{cos(\theta)} = cot(\frac{\pi}{2} - \theta) = \frac{1}{cot(\theta)} \\
-cot(\theta) &= \frac{cos(\theta)}{sin(\theta)} = tan(\frac{\pi}{2} - \theta) = \frac{1}{tan(\theta)} \\
-sec(\theta) &= csc(\frac{\pi}{2} - \theta) = \frac{1}{cos(\theta)} \\
-csc(\theta) &= sec(\frac{\pi}{2} - \theta) = \frac{1}{sin(\theta)}
+sin(\theta) &= cos \left( \frac{\pi}{2} - \theta \right) = \frac{1}{csc(\theta)} \\
+cos(\theta) &= sin \left( \frac{\pi}{2} - \theta \right) = \frac{1}{sec(\theta)} \\
+tan(\theta) &= \frac{sin(\theta)}{cos(\theta)} = cot \left( \frac{\pi}{2} - \theta \right) = \frac{1}{cot(\theta)} \\
+cot(\theta) &= \frac{cos(\theta)}{sin(\theta)} = tan \left( \frac{\pi}{2} - \theta \right) = \frac{1}{tan(\theta)} \\
+sec(\theta) &= csc \left( \frac{\pi}{2} - \theta \right) = \frac{1}{cos(\theta)} \\
+csc(\theta) &= sec \left( \frac{\pi}{2} - \theta \right) = \frac{1}{sin(\theta)}
 \end{align*}
 $$
 
 ```text
-sin(\theta) &= cos(\frac{\pi}{2} - \theta) = \frac{1}{csc(\theta)} \\
-cos(\theta) &= sin(\frac{\pi}{2} - \theta) = \frac{1}{sec(\theta)} \\
-tan(\theta) &= \frac{sin(\theta)}{cos(\theta)} = cot(\frac{\pi}{2} - \theta) = \frac{1}{cot(\theta)} \\
-cot(\theta) &= \frac{cos(\theta)}{sin(\theta)} = tan(\frac{\pi}{2} - \theta) = \frac{1}{tan(\theta)} \\
-sec(\theta) &= csc(\frac{\pi}{2} - \theta) = \frac{1}{cos(\theta)} \\
-csc(\theta) &= sec(\frac{\pi}{2} - \theta) = \frac{1}{sin(\theta)}
+sin(\theta) &= cos \left( \frac{\pi}{2} - \theta \right) = \frac{1}{csc(\theta)} \\
+cos(\theta) &= sin \left( \frac{\pi}{2} - \theta \right) = \frac{1}{sec(\theta)} \\
+tan(\theta) &= \frac{sin(\theta)}{cos(\theta)} = cot \left( \frac{\pi}{2} - \theta \right) = \frac{1}{cot(\theta)} \\
+cot(\theta) &= \frac{cos(\theta)}{sin(\theta)} = tan \left( \frac{\pi}{2} - \theta \right) = \frac{1}{tan(\theta)} \\
+sec(\theta) &= csc \left( \frac{\pi}{2} - \theta \right) = \frac{1}{cos(\theta)} \\
+csc(\theta) &= sec \left( \frac{\pi}{2} - \theta \right) = \frac{1}{sin(\theta)}
 ```
 
 ### Parity
