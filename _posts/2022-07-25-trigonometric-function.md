@@ -4,15 +4,13 @@ description: LaTeX of the Trigonometric functions
 layout: post
 toc: true
 comments: true
-image: images/posts/trig-function-diagram-472px.png
+image: images/fastpages_posts/math/trig-function-diagram.svg
 categories: [math, latex]
 ---
 
 ## Trigonometric function
 
-![trigonometric_functions](images/posts/trig-function-diagram-472px.png)
-
-[Trigonometric functions - Wikipedia](https://en.wikipedia.org/wiki/Trigonometric_functions)
+![]({{ site.baseurl }}/images/fastpages_posts/math/trig-function-diagram.svg "Plot of the six trigonometric functions, the unit circle, and a line for the angle θ = 0.7 radians. Trigonometric functions - Wikipedia (https://en.wikipedia.org/wiki/Trigonometric_functions)")
 
 $$
 \begin{align*}
