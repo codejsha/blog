@@ -4,13 +4,15 @@ description: LaTeX of the Trigonometric functions
 layout: post
 toc: true
 comments: true
+image: images/posts/trig-function-diagram-472px.png
 categories: [math, latex]
 ---
 
 ## Trigonometric function
 
-![trigonometric_functions](/images/posts/trig-function-diagram.svg)
-https://en.wikipedia.org/wiki/Trigonometric_functions
+![trigonometric_functions](/images/posts/trig-function-diagram-472px.png)
+
+[Trigonometric functions - Wikipedia](https://en.wikipedia.org/wiki/Trigonometric_functions)
 
 $$
 \begin{align*}
