@@ -10,7 +10,7 @@ categories: [math, latex]
 
 ## Trigonometric function
 
-![trigonometric_functions](/images/posts/trig-function-diagram-472px.png)
+![trigonometric_functions](images/posts/trig-function-diagram-472px.png)
 
 [Trigonometric functions - Wikipedia](https://en.wikipedia.org/wiki/Trigonometric_functions)
 
